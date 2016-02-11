@@ -8,7 +8,7 @@ Lista dos podcasts que todo desenvolvedor brasileiro deveria experimentar acompa
 Nome | Status | :musical_note:
 ---- | ---- | ----
 [Aspnetcast](https://www.youtube.com/channel/UC1DrB2LTgVBGiZdgaOrzMCg/featured)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
-[Castálio Podcast](http://castalio.info/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2)
+[Castálio Podcast](http://castalio.info/) | ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/castalio-podcast/id446259197?mt=2)
 [Carcast Programming](https://soundcloud.com/carcastprogramming)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/carcast-programming/id967624975?mt=2)
 [Coca Tech](https://cocatech.com.br/) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/br/podcast/cocatech/id437224054?mt=2)
 [CocoaHeadsBR](http://cocoaheads.com.br/podcasts)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/cocoaheads-brasil/id1044808957?mt=2)
@@ -18,7 +18,7 @@ Nome | Status | :musical_note:
 [DioCast](http://www.diolinux.com.br/search/label/DioCast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [FalaFreela](http://www.carreirasolo.org/falafreela/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](http://itunes.apple.com/br/podcast/fala-freela!/id289492825)
 [GDG Casts](http://gdgcasts.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/gdg-casts/id953473652?mt=2)
-[Grok Podcast](http://www.grokpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
+[Grok Podcast](http://www.grokpodcast.com/)| ![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
 [NodeBR Cast](https://github.com/nodebr/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
